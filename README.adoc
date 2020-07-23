@@ -1,0 +1,5 @@
+A simple React app created without the use of `create-react-app`
+and by using Docker and Parcel.
+
+Read more at
+https://github.com/paulojeronimo/docker-parcel-react-tutorial.
