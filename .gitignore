@@ -1,2 +1,4 @@
 /node_modules
 /container-id
+/.parcel-cache
+/dist
